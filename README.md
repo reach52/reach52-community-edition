@@ -14,7 +14,7 @@ reach52 is at the forefront of the HealthCare e-commerce domain, catering to the
 ## Build status
 Build status of continuous integration - reach52 Community edition 
 
-[Build Status: TBD](CI/CD Repo link: TBD](CI/CD Link: TBD)
+[Build Status: TBD](CI/CD Link: TBD)
 
 ## Tech/framework used
 Node.js is a cross-platform runtime library and environment for running JavaScript applications outside the browser. This is a free and open source tool used for creating server-side JS applications.
@@ -38,7 +38,7 @@ Please refer to the [CONTRIBUTING.MD](https://bitbucket.org/reach52/reach52-comm
 ## Installation/Deployment
 This is an API open source project built in Node.js and hence this project needs to be deployed to a server.
 
-You can take a look at the API documentation here: [API Documentation (link under construction)](https://api-open.reach52.com/api-docs/)
+You can take a look at the API documentation here: [API Documentation](https://api-open.reach52.com/api-docs/)
 
 There are many ways of hosting the API but for the sake of simplicity, let's take the case of hosting this in AWS from where your endpoints are to be exposed. To do this, please follow the steps mentioned [here](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-4/).
 
